@@ -39,11 +39,9 @@
 
 ## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
  
- ### ⚙️ &nbsp;GitHub Analytics
+
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-## Статистика:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlammaster&theme=solarized_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlammaster&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlammaster&theme=solarized_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hlammaster&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hlammaster&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hlammaster&theme=algolia)
