@@ -5,9 +5,9 @@
 
 
 💡 &nbsp;I like to explore and learn new technologies. \
-🐛&nbsp;I do manual testing and look for bugs. \
+🐛 &nbsp;I do manual testing and look for bugs. \
 💾 &nbsp;I do automated testing of test cases. \
-™️ &nbsp;I play in a team and organize my time cool. \
+™️  &nbsp;I play in a team and organize my time cool. \
 👾 &nbsp;In my free time I do game design and video games. \
  &nbsp;
 
