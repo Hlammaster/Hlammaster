@@ -36,5 +36,6 @@
 
 ## Проекты:
 ## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> Проект по автоматизации тестирования UI для сайта [STEAM](https://store.steampowered.com/)
+ <img alt="GIPHY" src="assets/steam.jpg">
  
 
