@@ -35,6 +35,5 @@
 </p>
 
 ## Проекты:
-# UI, API и Mobile автотесты для сайта [STEAM](https://store.steampowered.com/)
-<img alt="GIPHY" src="/design/icons/STEAM.png">(https://github.com/Hlammaster/steam_ui_project)
+# <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> Проект по автоматизации тестирования для сайта [STEAM](https://store.steampowered.com/)
 
