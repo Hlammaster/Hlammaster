@@ -7,6 +7,25 @@
 💡 &nbsp;I like to explore and learn new technologies. \
 💾 &nbsp;I do manual and automated testing. \
 ™️ &nbsp;I play in a team and organize my time cool. \
-👾 &nbsp; In my free time I do game design and video games
+👾 &nbsp;In my free time I do game design and video games.
+
+ ## Tech Stack
+ <p align="center">
+<img width="6%" title="IntelliJ IDEA" src="assets/Intelij_IDEA.svg">
+<img width="6%" title="Java" src="assets/Java.svg">
+<img width="6%" title="Selenide" src="assets/Selenide.svg">
+<img width="6%" title="Selenoid" src="assets/Selenoid.svg">
+<img width="6%" title="Allure Report" src="assets/Allure_Report.svg">
+<img width="6%" title="Allure Test Ops" src="assets/Allure_Test_Ops.svg">
+<img width="6%" title="Gradle" src="assets/Gradle.svg">
+<img width="6%" title="JUnit5" src="assets/JUnit5.svg">
+<img width="6%" title="GitHub" src="assets/GitHub.svg">
+<img width="6%" title="Jenkins" src="assets/Jenkins.svg">
+<img width="6%" title="Rest Assured" src="assets/Rest_Assured.png">
+<img width="6%" title="Android Studio" src="assets/androidstudio.svg">
+<img width="6%" title="Appium" src="assets/appium.svg">
+<img width="6%" title="Appium Inspector" src="assets/appium_inspector.png">
+</p>
+
 
 
