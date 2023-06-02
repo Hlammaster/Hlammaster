@@ -9,7 +9,8 @@
 💾 &nbsp;I do automated testing of test cases. \
 ™️ &nbsp;I play in a team and organize my time cool. \
 👾 &nbsp;In my free time I do game design and video games. \
-dffdf
+ &nbsp;
+
 
  
 
