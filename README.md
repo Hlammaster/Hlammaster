@@ -35,8 +35,8 @@
 </p>
 
 ## Projects:
-## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for[STEAM](https://store.steampowered.com/) website 
+## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for website [STEAM](https://store.steampowered.com/) 
 
-## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for the [regresIn](https://reqres.in) website 
+## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
 
 
