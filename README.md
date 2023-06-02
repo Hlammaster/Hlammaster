@@ -35,6 +35,6 @@
 </p>
 
 ## Проекты:
-### Дипломный проект по автоматизации тестирования web, api и mobile платформ
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/Hlammaster/steam_ui_project)
+# UI, API и Mobile автотесты для сайта [STEAM](https://store.steampowered.com/)
+<img alt="GIPHY" src="/design/icons/STEAM.png">(https://github.com/Hlammaster/steam_ui_project)
 
