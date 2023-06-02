@@ -34,10 +34,9 @@
 <img width="7%" title="Appium" src="assets/appium.svg">
 </p>
 
-## Проекты:
-## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> Проект по автоматизации тестирования UI для сайта [STEAM](https://store.steampowered.com/)
+## Projects:
+## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for[STEAM](https://store.steampowered.com/) website 
 
-## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> Проект по автоматизации API для сайта [regresIn](https://reqres.in)
-
+## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for the [regresIn](https://reqres.in) website 
 
 
