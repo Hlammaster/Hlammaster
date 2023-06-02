@@ -38,5 +38,14 @@
 ## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> UI testing automation project for website [STEAM](https://store.steampowered.com/) 
 
 ## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
+ 
+ ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/Hlammaster">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hlammaster&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hlammaster&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
