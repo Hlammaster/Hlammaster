@@ -32,7 +32,6 @@
 <img width="7%" title="Rest Assured" src="assets/RestAssured.svg">
 <img width="7%" title="Android Studio" src="assets/androidstudio.svg">
 <img width="7%" title="Appium" src="assets/appium.svg">
-<img width="7%" title="Appium Inspector" src="assets/appium_inspector.png">
 </p>
 
 
