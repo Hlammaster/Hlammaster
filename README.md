@@ -8,7 +8,8 @@
 💾 &nbsp;I do manual and automated testing. \
 ™️ &nbsp;I play in a team and organize my time cool. \
 👾 &nbsp;In my free time I do game design and video games. \
-dfdfdf
+dfdfdf \
+sdsdsd
                       
                      
 
