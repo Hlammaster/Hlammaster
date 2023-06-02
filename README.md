@@ -37,8 +37,7 @@
 ## Проекты:
 ## <a target="_blank" href="https://github.com/Hlammaster/steam_ui_project"> Проект по автоматизации тестирования UI для сайта [STEAM](https://store.steampowered.com/)
 
-## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> Проект по автоматизации API для сайта [regresIn]
- (https://reqres.in)
-  
+## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> Проект по автоматизации API для сайта [regresIn](https://reqres.in)
+
 
 
