@@ -34,5 +34,7 @@
 <img width="7%" title="Appium" src="assets/appium.svg">
 </p>
 
-
+## Проекты:
+### Дипломный проект по автоматизации тестирования web, api и mobile платформ
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DaurB&repo=final_project_ui)](https://github.com/Hlammaster/steam_ui_project)
 
