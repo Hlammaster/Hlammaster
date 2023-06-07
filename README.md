@@ -39,6 +39,7 @@
 
 ## <a target="_blank" href="https://github.com/Hlammaster/regresIn_api_project"> API automation project for  website [regresIn](https://reqres.in)
  
+## <a target="_blank" href="https://github.com/Hlammaster/wildberries-mobile"> Mobile automation project for [Wildberiies](https://www.wildberries.ru/)
 
 
 ### ⚙️ &nbsp;GitHub Analytics
